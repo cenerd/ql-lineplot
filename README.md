@@ -122,5 +122,5 @@ ApplicationWindow { id:app; visible:true
 
 Result:
 
-![4graphs](https://raw.github.com/ncp1402/ql-lineplot/master/repo/doc/pics/pic01.png)
+![4graphs](https://raw.github.com/ncp1402/ql-lineplot/master/doc/pics/pic01.png)
 
