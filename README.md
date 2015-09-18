@@ -1,5 +1,5 @@
 # ql-lineplot
-QML wrapper for QCustomPlot.
+QML wrapper for QCustomPlot. Donate: Paypal edartuz@gmail.com
 
 Supports auto ranging and mouse drag/zoom (with Shift - X axis, with Control - Y axis), screenshot to PNG.
 
